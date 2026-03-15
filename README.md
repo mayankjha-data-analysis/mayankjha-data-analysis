@@ -16,7 +16,7 @@
 
 💡 Skilled in *data analysis, visualization, and dashboard development* using modern analytics tools.
 
-🎓 *BCA Graduate* focused on building a strong *data analytics portfolio*.
+🎓 * Pursuing BCA * focused on building a strong *data analytics portfolio*.
 
 🚀 Currently working on *real-world projects in Python, SQL, and Power BI*.
 
